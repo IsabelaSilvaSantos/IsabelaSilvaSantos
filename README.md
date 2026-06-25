@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=f8418b&section=header"/>
+
 <div align="center">
 <samp>
       <br>
@@ -10,14 +12,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Backend+%26+Data+Enthusiast;" alt="Typing SVG"/>
 </div>
 
-##
+<br>
+
+<p align="center">
+Técnica em Informática pelo IFRO • Sistemas de Informação @ PUC Minas
+<br>  
+Em constante evolução, transformando dados e código em soluções reais. 🩷
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=f8418b"/>
+
+<br>
+<br>
 
  <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaSilvaSantos&layout=compact&theme=radical&count_private=true">
-<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaSilvaSantos&theme=radical"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true" />
+<img width="150" alt="menininha_kawaii_transparente" src="https://github.com/user-attachments/assets/6d603766-30b1-4cd7-b9ae-21ede7d4f3f4" />
+  <img height="165" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaSilvaSantos&theme=radical" />
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -46,10 +59,15 @@
   
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=f8418b"/>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsabelaSilvaSantos/IsabelaSilvaSantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsabelaSilvaSantos/IsabelaSilvaSantos/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/IsabelaSilvaSantos/IsabelaSilvaSantos/output/github-contribution-grid-snake-dark.svg">
 </picture>
+</div>
+
+
+
