@@ -58,7 +58,7 @@ Em constante evolução, transformando dados e código em soluções reais. 🩷
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/isabela-da-silva-santos/)
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=f8418b"/>
+##
 
 <div align="center">
 <picture>
@@ -68,5 +68,4 @@ Em constante evolução, transformando dados e código em soluções reais. 🩷
 </picture>
 </div>
 
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=f8418b&section=footer"/>
