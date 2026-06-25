@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=f8418b&section=header"/>
 
 <div align="center">
+      <img width="100" src="https://github.com/user-attachments/assets/6d603766-30b1-4cd7-b9ae-21ede7d4f3f4"/>
 <samp>
       <br>
       Hi there! I'm <b>Isabela da Silva Santos</b>
@@ -27,7 +28,6 @@ Em constante evolução, transformando dados e código em soluções reais. 🩷
 
  <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true" />
-<img width="150" alt="menininha_kawaii_transparente" src="https://github.com/user-attachments/assets/6d603766-30b1-4cd7-b9ae-21ede7d4f3f4" />
   <img height="165" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaSilvaSantos&theme=radical" />
 </div>
 
@@ -56,7 +56,6 @@ Em constante evolução, transformando dados e código em soluções reais. 🩷
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:isasilvaglo39@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/isabela_13g/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/isabela-da-silva-santos/)
-  
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=f8418b"/>
