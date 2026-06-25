@@ -27,8 +27,8 @@ Em constante evolução, transformando dados e código em soluções reais. 🩷
 <br>
 
  <div align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true" />
-  <img height="100" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaSilvaSantos&theme=radical" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true" />
+  <img height="140" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaSilvaSantos&theme=radical" />
 </div>
 
 
