@@ -1,10 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=f8418b&section=header"/>
 
 <div align="center">
-      <img width="100" src="https://github.com/user-attachments/assets/6d603766-30b1-4cd7-b9ae-21ede7d4f3f4"/>
 <samp>
-      <br>
-      Hi there! I'm <b>Isabela da Silva Santos</b>
+      <br>Hi there! I'm <b>Isabela da Silva Santos</b>
   </samp>
 </div>
 
@@ -27,7 +25,7 @@ Em constante evolução, transformando dados e código em soluções reais. 🩷
 <br>
 
  <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=IsabelaSilvaSantos&rank_icon=github&show_icons=true&theme=radical&count_private=true"/>
   <img height="140" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelaSilvaSantos&theme=radical" />
 </div>
 
